@@ -1,0 +1,5 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 欽定八旗通志
+#+DATE: 2015-08-24 22:53:02.280984
+#+PROPERTY: ID KR2m0053
+#+PROPERTY: BASEEDITION WYG    

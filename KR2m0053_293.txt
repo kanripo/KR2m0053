@@ -1,0 +1,168 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 欽定八旗通志
+#+DATE: 2015-08-24 22:53:10.210267
+#+PROPERTY: ID KR2m0053
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二百七十九 
+<pb:KR2m0053_WYG_293-1a>¶
+欽定四庫全書¶
+欽定八旗通志卷二百七十九¶
+　世職表(二/)¶
+　　鑲黄旗滿洲世職下¶
+　　　騎都尉¶
+<pb:KR2m0053_WYG_293-2a>¶
+¶
+<pb:KR2m0053_WYG_293-3a>¶
+¶
+<pb:KR2m0053_WYG_293-4a>¶
+¶
+<pb:KR2m0053_WYG_293-5a>¶
+¶
+<pb:KR2m0053_WYG_293-6a>¶
+¶
+<pb:KR2m0053_WYG_293-7a>¶
+¶
+<pb:KR2m0053_WYG_293-8a>¶
+¶
+<pb:KR2m0053_WYG_293-9a>¶
+¶
+<pb:KR2m0053_WYG_293-10a>¶
+¶
+<pb:KR2m0053_WYG_293-11a>¶
+¶
+<pb:KR2m0053_WYG_293-12a>¶
+¶
+<pb:KR2m0053_WYG_293-13a>¶
+¶
+<pb:KR2m0053_WYG_293-14a>¶
+¶
+<pb:KR2m0053_WYG_293-15a>¶
+¶
+<pb:KR2m0053_WYG_293-16a>¶
+¶
+<pb:KR2m0053_WYG_293-17a>¶
+¶
+<pb:KR2m0053_WYG_293-18a>¶
+¶
+<pb:KR2m0053_WYG_293-19a>¶
+¶
+<pb:KR2m0053_WYG_293-20a>¶
+¶
+<pb:KR2m0053_WYG_293-21a>¶
+¶
+<pb:KR2m0053_WYG_293-22a>¶
+¶
+<pb:KR2m0053_WYG_293-23a>¶
+¶
+<pb:KR2m0053_WYG_293-24a>¶
+¶
+<pb:KR2m0053_WYG_293-25a>¶
+¶
+<pb:KR2m0053_WYG_293-26a>¶
+¶
+<pb:KR2m0053_WYG_293-27a>¶
+¶
+<pb:KR2m0053_WYG_293-28a>¶
+¶
+<pb:KR2m0053_WYG_293-29a>¶
+¶
+<pb:KR2m0053_WYG_293-30a>¶
+¶
+<pb:KR2m0053_WYG_293-31a>¶
+¶
+<pb:KR2m0053_WYG_293-32a>¶
+¶
+<pb:KR2m0053_WYG_293-33a>¶
+¶
+<pb:KR2m0053_WYG_293-34a>¶
+¶
+<pb:KR2m0053_WYG_293-35a>¶
+¶
+<pb:KR2m0053_WYG_293-36a>¶
+¶
+<pb:KR2m0053_WYG_293-37a>¶
+¶
+<pb:KR2m0053_WYG_293-38a>¶
+¶
+<pb:KR2m0053_WYG_293-39a>¶
+¶
+<pb:KR2m0053_WYG_293-40a>¶
+¶
+<pb:KR2m0053_WYG_293-41a>¶
+¶
+<pb:KR2m0053_WYG_293-42a>¶
+¶
+<pb:KR2m0053_WYG_293-43a>¶
+¶
+<pb:KR2m0053_WYG_293-44a>¶
+¶
+<pb:KR2m0053_WYG_293-45a>¶
+¶
+<pb:KR2m0053_WYG_293-46a>¶
+¶
+<pb:KR2m0053_WYG_293-47a>¶
+¶
+<pb:KR2m0053_WYG_293-48a>¶
+¶
+<pb:KR2m0053_WYG_293-49a>¶
+¶
+<pb:KR2m0053_WYG_293-50a>¶
+¶
+<pb:KR2m0053_WYG_293-51a>¶
+¶
+<pb:KR2m0053_WYG_293-52a>¶
+¶
+<pb:KR2m0053_WYG_293-53a>¶
+¶
+<pb:KR2m0053_WYG_293-54a>¶
+¶
+<pb:KR2m0053_WYG_293-55a>¶
+¶
+<pb:KR2m0053_WYG_293-56a>¶
+¶
+<pb:KR2m0053_WYG_293-57a>¶
+¶
+<pb:KR2m0053_WYG_293-58a>¶
+¶
+<pb:KR2m0053_WYG_293-59a>¶
+¶
+<pb:KR2m0053_WYG_293-60a>¶
+¶
+<pb:KR2m0053_WYG_293-61a>¶
+¶
+<pb:KR2m0053_WYG_293-62a>¶
+¶
+<pb:KR2m0053_WYG_293-63a>¶
+¶
+<pb:KR2m0053_WYG_293-64a>¶
+¶
+<pb:KR2m0053_WYG_293-65a>¶
+¶
+<pb:KR2m0053_WYG_293-66a>¶
+¶
+<pb:KR2m0053_WYG_293-67a>¶
+¶
+<pb:KR2m0053_WYG_293-68a>¶
+¶
+<pb:KR2m0053_WYG_293-69a>¶
+¶
+<pb:KR2m0053_WYG_293-70a>¶
+¶
+<pb:KR2m0053_WYG_293-71a>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+<pb:KR2m0053_WYG_293-71b>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+欽定八旗通志卷二百七十九¶
