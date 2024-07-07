@@ -1,80 +1,66 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 欽定八旗通志
-#+DATE: 2015-08-24 22:53:11.566456
+#+DATE: 2015-08-24 22:53:11.543795
 #+PROPERTY: ID KR2m0053
 #+PROPERTY: BASEEDITION WYG    
-#+PROPERTY: JUAN 卷三百三十
-<pb:KR2m0053_WYG_342-1a>¶
+#+PROPERTY: JUAN 卷三百二十九
+<pb:KR2m0053_WYG_341-1a>¶
 欽定四庫全書¶
-欽定八旗通志卷三百三十¶
-　八旗大臣年表二十一¶
-　　直省大臣年表二¶
-　　　將軍都統副都統¶
-<pb:KR2m0053_WYG_342-2a>¶
+欽定八旗通志卷三百二十九¶
+　八旗大臣年表二十¶
+　　直省大臣年表一¶
+　　　總管將軍都統副都統¶
+<pb:KR2m0053_WYG_341-2a>¶
 ¶
-<pb:KR2m0053_WYG_342-3a>¶
+<pb:KR2m0053_WYG_341-3a>¶
 ¶
-<pb:KR2m0053_WYG_342-4a>¶
+<pb:KR2m0053_WYG_341-4a>¶
 ¶
-<pb:KR2m0053_WYG_342-5a>¶
+<pb:KR2m0053_WYG_341-5a>¶
 ¶
-<pb:KR2m0053_WYG_342-6a>¶
+<pb:KR2m0053_WYG_341-6a>¶
 ¶
-<pb:KR2m0053_WYG_342-7a>¶
+<pb:KR2m0053_WYG_341-7a>¶
 ¶
-<pb:KR2m0053_WYG_342-8a>¶
+<pb:KR2m0053_WYG_341-8a>¶
 ¶
-<pb:KR2m0053_WYG_342-9a>¶
+<pb:KR2m0053_WYG_341-9a>¶
 ¶
-<pb:KR2m0053_WYG_342-10a>¶
+<pb:KR2m0053_WYG_341-10a>¶
 ¶
-<pb:KR2m0053_WYG_342-11a>¶
+<pb:KR2m0053_WYG_341-11a>¶
 ¶
-<pb:KR2m0053_WYG_342-12a>¶
+<pb:KR2m0053_WYG_341-12a>¶
 ¶
-<pb:KR2m0053_WYG_342-13a>¶
+<pb:KR2m0053_WYG_341-13a>¶
 ¶
-<pb:KR2m0053_WYG_342-14a>¶
+<pb:KR2m0053_WYG_341-14a>¶
 ¶
-<pb:KR2m0053_WYG_342-15a>¶
+<pb:KR2m0053_WYG_341-15a>¶
 ¶
-<pb:KR2m0053_WYG_342-16a>¶
+<pb:KR2m0053_WYG_341-16a>¶
 ¶
-<pb:KR2m0053_WYG_342-17a>¶
+<pb:KR2m0053_WYG_341-17a>¶
 ¶
-<pb:KR2m0053_WYG_342-18a>¶
+<pb:KR2m0053_WYG_341-18a>¶
 ¶
-<pb:KR2m0053_WYG_342-19a>¶
+<pb:KR2m0053_WYG_341-19a>¶
 ¶
-<pb:KR2m0053_WYG_342-20a>¶
+<pb:KR2m0053_WYG_341-20a>¶
 ¶
-<pb:KR2m0053_WYG_342-21a>¶
+<pb:KR2m0053_WYG_341-21a>¶
 ¶
-<pb:KR2m0053_WYG_342-22a>¶
+<pb:KR2m0053_WYG_341-22a>¶
 ¶
-<pb:KR2m0053_WYG_342-23a>¶
+<pb:KR2m0053_WYG_341-23a>¶
 ¶
-<pb:KR2m0053_WYG_342-24a>¶
+<pb:KR2m0053_WYG_341-24a>¶
 ¶
-<pb:KR2m0053_WYG_342-25a>¶
+<pb:KR2m0053_WYG_341-25a>¶
 ¶
-<pb:KR2m0053_WYG_342-26a>¶
+<pb:KR2m0053_WYG_341-26a>¶
 ¶
-<pb:KR2m0053_WYG_342-27a>¶
-¶
-<pb:KR2m0053_WYG_342-28a>¶
-¶
-<pb:KR2m0053_WYG_342-29a>¶
-¶
-<pb:KR2m0053_WYG_342-30a>¶
-¶
-<pb:KR2m0053_WYG_342-31a>¶
-¶
-<pb:KR2m0053_WYG_342-32a>¶
-¶
-<pb:KR2m0053_WYG_342-33a>¶
-¶
-<pb:KR2m0053_WYG_342-34a>¶
+<pb:KR2m0053_WYG_341-27a>¶
 　¶
 　¶
 　¶
@@ -83,7 +69,7 @@
 　¶
 　¶
 　¶
-<pb:KR2m0053_WYG_342-34b>¶
+<pb:KR2m0053_WYG_341-27b>¶
 　¶
 　¶
 　¶
@@ -91,4 +77,4 @@
 　¶
 　¶
 　¶
-欽定八旗通志卷三百三十¶
+欽定八旗通志卷三百二十九¶

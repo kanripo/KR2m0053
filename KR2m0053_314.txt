@@ -1,56 +1,66 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 欽定八旗通志
-#+DATE: 2015-08-24 22:53:10.832737
+#+DATE: 2015-08-24 22:53:10.805301
 #+PROPERTY: ID KR2m0053
 #+PROPERTY: BASEEDITION WYG    
-#+PROPERTY: JUAN 卷三百一
-<pb:KR2m0053_WYG_314-1a>¶
+#+PROPERTY: JUAN 卷三百
+<pb:KR2m0053_WYG_313-1a>¶
 欽定四庫全書¶
-欽定八旗通志卷三百一¶
-　世職表二十四¶
-　　鑲藍旗䝉古世職(一等輕車都尉尉三等輕車都尉/騎都尉  雲騎)¶
+欽定八旗通志卷三百¶
+　世職表二十三¶
+　　正藍旗䝉古世職(一等輕車都尉尉二等輕車都尉/車都尉  騎都    雲騎尉)　(三等輕/)¶
 　　　一等輕車都尉¶
-<pb:KR2m0053_WYG_314-2a>¶
+<pb:KR2m0053_WYG_313-2a>¶
 ¶
-<pb:KR2m0053_WYG_314-3a>¶
+<pb:KR2m0053_WYG_313-3a>¶
 ¶
-<pb:KR2m0053_WYG_314-4a>¶
+<pb:KR2m0053_WYG_313-4a>¶
 ¶
-<pb:KR2m0053_WYG_314-5a>¶
+<pb:KR2m0053_WYG_313-5a>¶
 ¶
-<pb:KR2m0053_WYG_314-6a>¶
+<pb:KR2m0053_WYG_313-6a>¶
 ¶
-<pb:KR2m0053_WYG_314-7a>¶
+<pb:KR2m0053_WYG_313-7a>¶
 ¶
-<pb:KR2m0053_WYG_314-8a>¶
+<pb:KR2m0053_WYG_313-8a>¶
 ¶
-<pb:KR2m0053_WYG_314-9a>¶
+<pb:KR2m0053_WYG_313-9a>¶
 ¶
-<pb:KR2m0053_WYG_314-10a>¶
+<pb:KR2m0053_WYG_313-10a>¶
 ¶
-<pb:KR2m0053_WYG_314-11a>¶
+<pb:KR2m0053_WYG_313-11a>¶
 ¶
-<pb:KR2m0053_WYG_314-12a>¶
+<pb:KR2m0053_WYG_313-12a>¶
 ¶
-<pb:KR2m0053_WYG_314-13a>¶
+<pb:KR2m0053_WYG_313-13a>¶
 ¶
-<pb:KR2m0053_WYG_314-14a>¶
+<pb:KR2m0053_WYG_313-14a>¶
 ¶
-<pb:KR2m0053_WYG_314-15a>¶
+<pb:KR2m0053_WYG_313-15a>¶
 ¶
-<pb:KR2m0053_WYG_314-16a>¶
+<pb:KR2m0053_WYG_313-16a>¶
 ¶
-<pb:KR2m0053_WYG_314-17a>¶
+<pb:KR2m0053_WYG_313-17a>¶
 ¶
-<pb:KR2m0053_WYG_314-18a>¶
+<pb:KR2m0053_WYG_313-18a>¶
 ¶
-<pb:KR2m0053_WYG_314-19a>¶
+<pb:KR2m0053_WYG_313-19a>¶
 ¶
-<pb:KR2m0053_WYG_314-20a>¶
+<pb:KR2m0053_WYG_313-20a>¶
 ¶
-<pb:KR2m0053_WYG_314-21a>¶
+<pb:KR2m0053_WYG_313-21a>¶
 ¶
-<pb:KR2m0053_WYG_314-22a>¶
+<pb:KR2m0053_WYG_313-22a>¶
+¶
+<pb:KR2m0053_WYG_313-23a>¶
+¶
+<pb:KR2m0053_WYG_313-24a>¶
+¶
+<pb:KR2m0053_WYG_313-25a>¶
+¶
+<pb:KR2m0053_WYG_313-26a>¶
+¶
+<pb:KR2m0053_WYG_313-27a>¶
 　¶
 　¶
 　¶
@@ -59,7 +69,7 @@
 　¶
 　¶
 　¶
-<pb:KR2m0053_WYG_314-22b>¶
+<pb:KR2m0053_WYG_313-27b>¶
 　¶
 　¶
 　¶
@@ -67,4 +77,4 @@
 　¶
 　¶
 　¶
-欽定八旗通志卷三百一¶
+欽定八旗通志卷三百¶

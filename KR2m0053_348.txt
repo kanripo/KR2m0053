@@ -1,104 +1,106 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 欽定八旗通志
-#+DATE: 2015-08-24 22:53:11.759825
+#+DATE: 2015-08-24 22:53:11.734548
 #+PROPERTY: ID KR2m0053
 #+PROPERTY: BASEEDITION WYG    
-#+PROPERTY: JUAN 卷三百三十六
-<pb:KR2m0053_WYG_348-1a>¶
+#+PROPERTY: JUAN 卷三百三十五
+<pb:KR2m0053_WYG_347-1a>¶
 欽定四庫全書¶
-欽定八旗通志卷三百三十六¶
-　八旗大臣年表二十七¶
-　　直省大臣年表八¶
-　　　將軍都統副都統¶
-<pb:KR2m0053_WYG_348-2a>¶
+欽定八旗通志卷三百三十五¶
+　八旗大臣年表二十六¶
+　　直省大臣年表七¶
+　　　将軍都統副都統¶
+<pb:KR2m0053_WYG_347-2a>¶
 ¶
-<pb:KR2m0053_WYG_348-3a>¶
+<pb:KR2m0053_WYG_347-3a>¶
 ¶
-<pb:KR2m0053_WYG_348-4a>¶
+<pb:KR2m0053_WYG_347-4a>¶
 ¶
-<pb:KR2m0053_WYG_348-5a>¶
+<pb:KR2m0053_WYG_347-5a>¶
 ¶
-<pb:KR2m0053_WYG_348-6a>¶
+<pb:KR2m0053_WYG_347-6a>¶
 ¶
-<pb:KR2m0053_WYG_348-7a>¶
+<pb:KR2m0053_WYG_347-7a>¶
 ¶
-<pb:KR2m0053_WYG_348-8a>¶
+<pb:KR2m0053_WYG_347-8a>¶
 ¶
-<pb:KR2m0053_WYG_348-9a>¶
+<pb:KR2m0053_WYG_347-9a>¶
 ¶
-<pb:KR2m0053_WYG_348-10a>¶
+<pb:KR2m0053_WYG_347-10a>¶
 ¶
-<pb:KR2m0053_WYG_348-11a>¶
+<pb:KR2m0053_WYG_347-11a>¶
 ¶
-<pb:KR2m0053_WYG_348-12a>¶
+<pb:KR2m0053_WYG_347-12a>¶
 ¶
-<pb:KR2m0053_WYG_348-13a>¶
+<pb:KR2m0053_WYG_347-13a>¶
 ¶
-<pb:KR2m0053_WYG_348-14a>¶
+<pb:KR2m0053_WYG_347-14a>¶
 ¶
-<pb:KR2m0053_WYG_348-15a>¶
+<pb:KR2m0053_WYG_347-15a>¶
 ¶
-<pb:KR2m0053_WYG_348-16a>¶
+<pb:KR2m0053_WYG_347-16a>¶
 ¶
-<pb:KR2m0053_WYG_348-17a>¶
+<pb:KR2m0053_WYG_347-17a>¶
 ¶
-<pb:KR2m0053_WYG_348-18a>¶
+<pb:KR2m0053_WYG_347-18a>¶
 ¶
-<pb:KR2m0053_WYG_348-19a>¶
+<pb:KR2m0053_WYG_347-19a>¶
 ¶
-<pb:KR2m0053_WYG_348-20a>¶
+<pb:KR2m0053_WYG_347-20a>¶
 ¶
-<pb:KR2m0053_WYG_348-21a>¶
+<pb:KR2m0053_WYG_347-21a>¶
 ¶
-<pb:KR2m0053_WYG_348-22a>¶
+<pb:KR2m0053_WYG_347-22a>¶
 ¶
-<pb:KR2m0053_WYG_348-23a>¶
+<pb:KR2m0053_WYG_347-23a>¶
 ¶
-<pb:KR2m0053_WYG_348-24a>¶
+<pb:KR2m0053_WYG_347-24a>¶
 ¶
-<pb:KR2m0053_WYG_348-25a>¶
+<pb:KR2m0053_WYG_347-25a>¶
 ¶
-<pb:KR2m0053_WYG_348-26a>¶
+<pb:KR2m0053_WYG_347-26a>¶
 ¶
-<pb:KR2m0053_WYG_348-27a>¶
+<pb:KR2m0053_WYG_347-27a>¶
 ¶
-<pb:KR2m0053_WYG_348-28a>¶
+<pb:KR2m0053_WYG_347-28a>¶
 ¶
-<pb:KR2m0053_WYG_348-29a>¶
+<pb:KR2m0053_WYG_347-29a>¶
 ¶
-<pb:KR2m0053_WYG_348-30a>¶
+<pb:KR2m0053_WYG_347-30a>¶
 ¶
-<pb:KR2m0053_WYG_348-31a>¶
+<pb:KR2m0053_WYG_347-31a>¶
 ¶
-<pb:KR2m0053_WYG_348-32a>¶
+<pb:KR2m0053_WYG_347-32a>¶
 ¶
-<pb:KR2m0053_WYG_348-33a>¶
+<pb:KR2m0053_WYG_347-33a>¶
 ¶
-<pb:KR2m0053_WYG_348-34a>¶
+<pb:KR2m0053_WYG_347-34a>¶
 ¶
-<pb:KR2m0053_WYG_348-35a>¶
+<pb:KR2m0053_WYG_347-35a>¶
 ¶
-<pb:KR2m0053_WYG_348-36a>¶
+<pb:KR2m0053_WYG_347-36a>¶
 ¶
-<pb:KR2m0053_WYG_348-37a>¶
+<pb:KR2m0053_WYG_347-37a>¶
 ¶
-<pb:KR2m0053_WYG_348-38a>¶
+<pb:KR2m0053_WYG_347-38a>¶
 ¶
-<pb:KR2m0053_WYG_348-39a>¶
+<pb:KR2m0053_WYG_347-39a>¶
 ¶
-<pb:KR2m0053_WYG_348-40a>¶
+<pb:KR2m0053_WYG_347-40a>¶
 ¶
-<pb:KR2m0053_WYG_348-41a>¶
+<pb:KR2m0053_WYG_347-41a>¶
 ¶
-<pb:KR2m0053_WYG_348-42a>¶
+<pb:KR2m0053_WYG_347-42a>¶
 ¶
-<pb:KR2m0053_WYG_348-43a>¶
+<pb:KR2m0053_WYG_347-43a>¶
 ¶
-<pb:KR2m0053_WYG_348-44a>¶
+<pb:KR2m0053_WYG_347-44a>¶
 ¶
-<pb:KR2m0053_WYG_348-45a>¶
+<pb:KR2m0053_WYG_347-45a>¶
 ¶
-<pb:KR2m0053_WYG_348-46a>¶
+<pb:KR2m0053_WYG_347-46a>¶
+¶
+<pb:KR2m0053_WYG_347-47a>¶
 　¶
 　¶
 　¶
@@ -107,7 +109,7 @@
 　¶
 　¶
 　¶
-<pb:KR2m0053_WYG_348-46b>¶
+<pb:KR2m0053_WYG_347-47b>¶
 　¶
 　¶
 　¶
@@ -115,4 +117,4 @@
 　¶
 　¶
 　¶
-欽定八旗通志卷三百三十六¶
+欽定八旗通志卷三百三十五¶
