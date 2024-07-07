@@ -4,40 +4,40 @@
 #+PROPERTY: ID KR2m0053
 #+PROPERTY: BASEEDITION WYG    
 #+PROPERTY: JUAN 卷二百九十九 
-<pb:KR2m0053_WYG_312-1a>¶
+<pb:KR2m0053_WYG_313-1a>¶
 欽定四庫全書¶
 欽定八旗通志卷二百九十九¶
 　世職表二十二¶
 　　鑲紅旗䝉古世職(一等輕車都尉都二等輕車都/尉  三等輕車  尉  騎都尉)¶
 　　　(雲騎尉/)¶
 　　　一等輕車都尉¶
-<pb:KR2m0053_WYG_312-2a>¶
+<pb:KR2m0053_WYG_313-2a>¶
 ¶
-<pb:KR2m0053_WYG_312-3a>¶
+<pb:KR2m0053_WYG_313-3a>¶
 ¶
-<pb:KR2m0053_WYG_312-4a>¶
+<pb:KR2m0053_WYG_313-4a>¶
 ¶
-<pb:KR2m0053_WYG_312-5a>¶
+<pb:KR2m0053_WYG_313-5a>¶
 ¶
-<pb:KR2m0053_WYG_312-6a>¶
+<pb:KR2m0053_WYG_313-6a>¶
 ¶
-<pb:KR2m0053_WYG_312-7a>¶
+<pb:KR2m0053_WYG_313-7a>¶
 ¶
-<pb:KR2m0053_WYG_312-8a>¶
+<pb:KR2m0053_WYG_313-8a>¶
 ¶
-<pb:KR2m0053_WYG_312-9a>¶
+<pb:KR2m0053_WYG_313-9a>¶
 ¶
-<pb:KR2m0053_WYG_312-10a>¶
+<pb:KR2m0053_WYG_313-10a>¶
 ¶
-<pb:KR2m0053_WYG_312-11a>¶
+<pb:KR2m0053_WYG_313-11a>¶
 ¶
-<pb:KR2m0053_WYG_312-12a>¶
+<pb:KR2m0053_WYG_313-12a>¶
 ¶
-<pb:KR2m0053_WYG_312-13a>¶
+<pb:KR2m0053_WYG_313-13a>¶
 ¶
-<pb:KR2m0053_WYG_312-14a>¶
+<pb:KR2m0053_WYG_313-14a>¶
 ¶
-<pb:KR2m0053_WYG_312-15a>¶
+<pb:KR2m0053_WYG_313-15a>¶
 　¶
 　¶
 　¶
@@ -46,7 +46,7 @@
 　¶
 　¶
 　¶
-<pb:KR2m0053_WYG_312-15b>¶
+<pb:KR2m0053_WYG_313-15b>¶
 　¶
 　¶
 　¶
